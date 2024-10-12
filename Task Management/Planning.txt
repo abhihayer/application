@@ -1,0 +1,16 @@
+Initial Plan
+Backend
+	API Layer
+	- Java
+	- Spring boot
+
+	Data Layer
+	- Java
+	- Spring boot
+	- Mysql
+
+
+Frontend
+	Client
+	- React/js
+	- Tailwind css
